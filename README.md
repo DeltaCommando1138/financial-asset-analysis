@@ -1,2 +1,2 @@
-# financial-asset-analysis
-The goal of this project is to apply machine learning algorithms to stock prediction on real world datasets.
+# Financial Stock Prediction Application
+The goal of this project is to develop a robust application leveraging machine learning algorithms for stock prediction on real world datasets.
