@@ -20,7 +20,7 @@ st.write(
 stocks = {
   "Microsoft (MSFT)": "MSFT",
   "Viking Therapeutics (VKTX)": "VKTX",
-  "Bloom Energy (BE)": "BE"
+  "Bloom Energy (BE)": "BE",
   "S&P 500 ETF (SPY)": "SPY",
   "Vanguard S&P 500 ETF (VOO)": "VOO"
 
