@@ -12,8 +12,8 @@ st.set_page_config(
 st.title("Financial Asset Analysis, Forecasting and Recommendation")
 
 st.write(
-  "Welcome to our financial asset analysis dashboard."
-  "This application allows users to explore histroical stock prices and financial market trends."
+  "Welcome to our financial asset analysis dashboard. "
+  "This application allows users to explore historical stock prices and financial market trends."
 )
 
 # Financial asstets dropdown menu
